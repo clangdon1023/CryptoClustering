@@ -15,13 +15,13 @@ Challenge using unsupervised learning to find the best value fo "k".
 
 Results
 
+* Scaled Data Elbow Chart
+
 ![Original Data](https://github.com/clangdon1023/CryptoClustering/assets/139593626/0365f359-8bf6-4d73-87a7-7bd2d6d97c42)
 
+* PCA Elbow Chart
 
-
-* Best Value of K using the PCA data
-  
-<img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/PCA%20Elbow.png">
+![PCA Elbow](https://github.com/clangdon1023/CryptoClustering/assets/139593626/abfe4a3f-772d-436c-8863-cb33831cb0e9)
 
 
 * 4 was found to be the best value for K in both Elbow Curves
