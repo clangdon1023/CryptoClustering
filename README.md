@@ -16,14 +16,17 @@ Challenge using unsupervised learning to find the best value fo "k".
 Results
 
 * Best Value of K using the Original Scaled DataFrame
+  
 <img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/Original%20Data.png">
 
 
 * Best Value of K using the PCA data
+  
 <img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/PCA%20Elbow.png">
-<img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/Original%20Data.png">
+
 
 * 4 was found to be the best value for K in both Elbow Curves
 
 * Scatter Plot
+  
 <img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/Scatter%20Plot.png">
