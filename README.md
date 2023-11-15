@@ -17,7 +17,7 @@ Results
 
 * Best Value of K using the Original Scaled DataFrame
   
-<img width="714" alt="https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/Original%20Data.png">
+![Best Value of K Using the Original Scaled DataFram]("https://github.com/clangdon1023/CryptoClustering/blob/main/Resources/Original%20Data.png")
 
 
 * Best Value of K using the PCA data
